@@ -2,11 +2,39 @@
   "sites": [
     {
       "id": 1,
-      "name": "Site 123"
+      "name": "Site 123",
+      "generators": [
+        {
+          "id": 42,
+          "name": "G-ABC"
+        },
+        {
+          "id": 43,
+          "name": "G-DEF"
+        },
+        {
+          "id": 44,
+          "name": "G-HIJ"
+        }
+      ]
     },
     {
       "id": 2,
-      "name": "Site 456"
+      "name": "Site 456",
+      "generators": [
+        {
+          "id": 42,
+          "name": "G-ABC"
+        },
+        {
+          "id": 43,
+          "name": "G-DEF"
+        },
+        {
+          "id": 44,
+          "name": "G-HIJ"
+        }
+      ]
     }
   ],
   "user": {
