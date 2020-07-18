@@ -1,0 +1,16 @@
+{
+  "sites": [
+    {
+      "id": 1,
+      "name": "Site 123"
+    },
+    {
+      "id": 2,
+      "name": "Site 456"
+    }
+  ],
+  "user": {
+    "name": "John Smith",
+    "email": "john.smith@example.com"
+  }
+}
